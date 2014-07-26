@@ -21,6 +21,8 @@ If you already have an npm account, you could just go ahead and type `npm publis
 
 If however, you are not familiar with NPM, take a look at [their docs](https://www.npmjs.org/doc/).
 
+When your JSONResume Theme is published, you can easily view at http://themes.jsonresume.org/theme/themename, where themename is your theme name. Anyone will be able to use it now.
+
 ## Closing Remarks
 
 If you have any questions about theme development feel free to ask the JSONResume team, or possibly submit an issue here.
