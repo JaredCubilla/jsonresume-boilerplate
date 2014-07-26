@@ -1,0 +1,21 @@
+{
+  "name": "jsonresume-theme-name",
+  "version": "0.0.1",
+  "description": "A JSONResume theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "gravatar": "^1.0.6",
+    "lodash": "^2.4.1",
+    "mustache": "^0.8.2",
+    "tarball-extract": "0.0.3",
+    "resume-schema": "0.0.11"
+  },
+  "keywords": [
+    "json", "jsonresume", "theme"
+  ]
+}
